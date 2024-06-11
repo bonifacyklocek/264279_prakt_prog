@@ -1,4 +1,7 @@
 # przykladowe funkcje utils . py
+"""
+high level support for doing this and that.
+"""
 def add ( a : int , b : int ) -> int:
     return a + b
 def subtract ( a : int , b : int ) -> int:
